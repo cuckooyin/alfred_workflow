@@ -3,7 +3,8 @@ The wordflow script for alfred.
 # first step
 You should buy powerpack for alfred and open the wordflow function.
 # second step
-1. Click the [JetBrains - Open project.alfredworkflow] file and install it. This script only contains pycharm and clion and idea and goland, if you want more apps, please contact me.
+1. Open your Jetbrains app， goto Tools and click [Create Command-line Launcher], it will create a script in /usr/local/bin, and my script is rely on it.
+2. Click the [JetBrains - Open project.alfredworkflow] file and install it. This script only contains pycharm and clion and idea and goland, if you want more apps, please contact me.
 
 # third step
 Enjoy it!
